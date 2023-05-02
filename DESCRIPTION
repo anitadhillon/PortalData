@@ -1,0 +1,14 @@
+Package: HelloR
+Type: Package
+Title: Holds and analyses data for 
+Version: 0.1.0
+Authors@R: person("Anita", "Dhillon", email= "adhillon103102@icloud.com", role = c("aut","cre"))
+Maintainer: The package maintainer <adhillon103102@icloud.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
