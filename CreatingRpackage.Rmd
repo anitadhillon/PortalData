@@ -1,8 +1,18 @@
+---
+title: "Orycotolagus Cuniculus"
+author: "Anita Dhillon"
+date: "2023-05-02"
+output: pdf_document
+---
 
-# HelloR
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(dplyr)
+```
 
-<!-- badges: start -->
-<!-- badges: end -->
+
+
 
 # Oryctolagus Cuniculus
 
@@ -33,7 +43,7 @@ Results: Rabbit Hemorrhagic was seen to reduce the survival of the individuals w
 
 
 
-Why I choose this data set: I chose this data set because I am very fond of bunnies/rabbits! I wanted to work with a fun data set that I would enjoy. 
+
 
 
 
